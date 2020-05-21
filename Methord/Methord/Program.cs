@@ -6,6 +6,20 @@ namespace Methord
     {
         static void Main(string[] args)
         {
+            
+
+
+        }
+        static void UaeParams()
+        {
+            var cal = new Calculator();
+            Console.WriteLine(cal.Add(1, 2));
+            Console.WriteLine(cal.Add(1, 2, 3));
+            Console.WriteLine(cal.Add(1, 2, 3, 4));
+            Console.WriteLine(cal.Add(new int[] { 1, 2, 3, 4, 5 }));
+        }
+        static void UsePoints()
+        {
             try
             {
                 var point = new Point(10, 20);
@@ -21,10 +35,6 @@ namespace Methord
 
                 Console.WriteLine("Unexpected error occurd");
             }
-
-
-            
-           
         }
     }
 }
