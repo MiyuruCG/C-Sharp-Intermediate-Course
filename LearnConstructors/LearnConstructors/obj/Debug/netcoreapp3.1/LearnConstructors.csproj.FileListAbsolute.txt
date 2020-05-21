@@ -1,0 +1,13 @@
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\bin\Debug\netcoreapp3.1\LearnConstructors.exe
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\bin\Debug\netcoreapp3.1\LearnConstructors.deps.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\bin\Debug\netcoreapp3.1\LearnConstructors.runtimeconfig.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\bin\Debug\netcoreapp3.1\LearnConstructors.runtimeconfig.dev.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\bin\Debug\netcoreapp3.1\LearnConstructors.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\bin\Debug\netcoreapp3.1\LearnConstructors.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\obj\Debug\netcoreapp3.1\LearnConstructors.csprojAssemblyReference.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\obj\Debug\netcoreapp3.1\LearnConstructors.csproj.CoreCompileInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\obj\Debug\netcoreapp3.1\LearnConstructors.AssemblyInfoInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\obj\Debug\netcoreapp3.1\LearnConstructors.AssemblyInfo.cs
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\obj\Debug\netcoreapp3.1\LearnConstructors.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\obj\Debug\netcoreapp3.1\LearnConstructors.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\LearnConstructors\LearnConstructors\obj\Debug\netcoreapp3.1\LearnConstructors.genruntimeconfig.cache
