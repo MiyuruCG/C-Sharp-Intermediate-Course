@@ -1,0 +1,19 @@
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.deps.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.dev.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csprojAssemblyReference.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfoInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfo.cs
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.genruntimeconfig.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\4. AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csprojAssemblyReference.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\4. AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\4. AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfoInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\4. AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfo.cs
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\4. AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\4. AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.pdb
