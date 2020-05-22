@@ -1,0 +1,15 @@
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\bin\Debug\WpfAppDowncast.exe.config
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\bin\Debug\WpfAppDowncast.exe
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\bin\Debug\WpfAppDowncast.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\WpfAppDowncast.csprojAssemblyReference.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\MainWindow.g.cs
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\App.g.cs
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\WpfAppDowncast_MarkupCompile.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\WpfAppDowncast_MarkupCompile.lref
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\MainWindow.baml
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\WpfAppDowncast.g.resources
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\WpfAppDowncast.Properties.Resources.resources
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\WpfAppDowncast.csproj.GenerateResource.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\WpfAppDowncast.csproj.CoreCompileInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\WpfAppDowncast.exe
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 4\WpfAppDowncast\WpfAppDowncast\obj\Debug\WpfAppDowncast.pdb
