@@ -1,0 +1,12 @@
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.exe
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.deps.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.dev.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.csproj.CoreCompileInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfoInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfo.cs
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 3\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.genruntimeconfig.cache
