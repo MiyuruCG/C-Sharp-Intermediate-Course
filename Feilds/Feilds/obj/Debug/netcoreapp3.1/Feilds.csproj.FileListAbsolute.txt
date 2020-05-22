@@ -1,0 +1,13 @@
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\bin\Debug\netcoreapp3.1\Feilds.exe
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\bin\Debug\netcoreapp3.1\Feilds.deps.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\bin\Debug\netcoreapp3.1\Feilds.runtimeconfig.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\bin\Debug\netcoreapp3.1\Feilds.runtimeconfig.dev.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\bin\Debug\netcoreapp3.1\Feilds.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\bin\Debug\netcoreapp3.1\Feilds.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\obj\Debug\netcoreapp3.1\Feilds.csprojAssemblyReference.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\obj\Debug\netcoreapp3.1\Feilds.csproj.CoreCompileInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\obj\Debug\netcoreapp3.1\Feilds.AssemblyInfoInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\obj\Debug\netcoreapp3.1\Feilds.AssemblyInfo.cs
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\obj\Debug\netcoreapp3.1\Feilds.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\obj\Debug\netcoreapp3.1\Feilds.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Feilds\Feilds\obj\Debug\netcoreapp3.1\Feilds.genruntimeconfig.cache
