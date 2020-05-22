@@ -1,0 +1,13 @@
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\bin\Debug\netcoreapp3.1\Exercise_Calculator.exe
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\bin\Debug\netcoreapp3.1\Exercise_Calculator.deps.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\bin\Debug\netcoreapp3.1\Exercise_Calculator.runtimeconfig.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\bin\Debug\netcoreapp3.1\Exercise_Calculator.runtimeconfig.dev.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\bin\Debug\netcoreapp3.1\Exercise_Calculator.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\bin\Debug\netcoreapp3.1\Exercise_Calculator.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\obj\Debug\netcoreapp3.1\Exercise_Calculator.csprojAssemblyReference.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\obj\Debug\netcoreapp3.1\Exercise_Calculator.csproj.CoreCompileInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\obj\Debug\netcoreapp3.1\Exercise_Calculator.AssemblyInfoInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\obj\Debug\netcoreapp3.1\Exercise_Calculator.AssemblyInfo.cs
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\obj\Debug\netcoreapp3.1\Exercise_Calculator.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\obj\Debug\netcoreapp3.1\Exercise_Calculator.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Classes\Exercise_Calculator\Exercise_Calculator\obj\Debug\netcoreapp3.1\Exercise_Calculator.genruntimeconfig.cache
