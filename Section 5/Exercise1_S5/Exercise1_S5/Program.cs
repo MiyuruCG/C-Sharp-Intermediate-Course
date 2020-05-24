@@ -1,12 +1,17 @@
-﻿namespace Exercise1_S5
+﻿using System.Net.WebSockets;
+using System.Runtime.InteropServices;
+using System.Runtime.InteropServices.ComTypes;
+
+namespace Exercise1_S5
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var sql = new SqlConnection("Connect");
-            sql.Open();
-            sql.Close();
+            string instruction = "create DB";
+            var dbConnection = new SqlConnection(instruction);
+            var command = new DbCommand(dbConnection, instruction);
+            command.Execute();
         }
     }
 }
