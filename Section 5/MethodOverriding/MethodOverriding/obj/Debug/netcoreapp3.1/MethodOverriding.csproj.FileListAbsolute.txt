@@ -1,0 +1,13 @@
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.exe
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.deps.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.runtimeconfig.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.runtimeconfig.dev.json
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.csprojAssemblyReference.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.AssemblyInfoInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.AssemblyInfo.cs
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.dll
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Intermediate-Course\Section 5\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.genruntimeconfig.cache
