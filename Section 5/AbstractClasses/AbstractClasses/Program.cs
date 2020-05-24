@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+            //var shape = new Shape();
+            
+
 
             var circle = new Circle();
             circle.Draw();
